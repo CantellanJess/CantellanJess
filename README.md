@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessi Cantellan
 - 👀 I am a software engineer eager to learn and gain experience.
-- 🌱 I'm a college graduate with my Bachelors in Business Administraiton, with an emphasis in Information Systems.
+- 🌱 I'm a college graduate with my Bachelors in Information Systems.
 
 <!---
 CantellanJess/CantellanJess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
